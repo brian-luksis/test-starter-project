@@ -1,0 +1,11 @@
+bin/
+.DS_Store
+build/
+target/
+.idea/
+*.iml
+test-output/
+tmp/
+temp/
+out/
+*.log
